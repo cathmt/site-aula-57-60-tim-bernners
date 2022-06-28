@@ -57,7 +57,7 @@ h2{
     width: 100%;
     margin-top: 0px;
     top: 0px;
-    z-index: 10px;
+    z-index: 10;
 }
 
 .links{
@@ -90,6 +90,6 @@ a{
     width: 100%;
 }
 
-#contact_1 h3{
+.contact_1 h3{
     display: inline;
 }
